@@ -1,0 +1,77 @@
+S.No,Question,Answers
+1,Login Page is not getting displayed,Login server was down. It is up now. Please check.
+2,Login Page Down,Login server was down. It is up now. Please check.
+3,Login Page not opening,Login server was down. It is up now. Please check.
+4,Login Page is not showing up.,Login server was down. It is up now. Please check.
+5,Login credetials are not working.,"Go to URL : password.reset.com, Enter you login id, enter password received, reset the password"
+6,"Forgot the password, can you please reset the password for me.","Go to URL : password.reset.com, Enter you login id, enter password received, reset the password"
+7,Password expired.,"Go to URL : password.reset.com, Enter you login id, enter password received, reset the password"
+8,FW: Myspace Login Issue,"Go to URL : password.reset.com, Enter you login id, enter password received, reset the password"
+9,Please reset mypassword.It is expired.,Unlocked the account and new password is sent to your email id.
+10,"Account got locked, because of 3 wrong attempts os password. Could you please reset the password",Unlocked the account and new password is sent to your email id.
+11,Account locked. Not able to login,Unlocked the account and new password is sent to your email id.
+12,Create new account and share the username and password,"Go to URL : accountsetup.com, Enter personal details along with user id, enter OTP received, click finish. Check email for details."
+13,New Account is needed for a new joinee.,"Go to URL : accountsetup.com, Enter personal details along with user id, enter OTP received, click finish. Check email for details."
+14,Needs permission wifi access to laptop,"First, connect a network cable to your laptop to the red port on your workstation. Run ipconfig /all on your command prompt. Share WiFi Mac or Hardware address to the IT team. IT team then adds your MAC ID to enable WiFi access"
+15,Wifi access needed.,"First, connect a network cable to your laptop to the red port on your workstation. Run ipconfig /all on your command prompt. Share WiFi Mac or Hardware address to the IT team. IT team then adds your MAC ID to enable WiFi access"
+16,Need to connect to Wifi.,"First, connect a network cable to your laptop to the red port on your workstation. Run ipconfig /all on your command prompt. Share WiFi Mac or Hardware address to the IT team. IT team then adds your MAC ID to enable WiFi access"
+17,Unable to connect to Internet,
+18,How can I Delete Internet Cookies,
+19,Not able to send and receive emails,"Microsoft Internet Explorer users can go to 'Tools' (or the little cog icon in the top left), then go to 'Safety' and choose 'Delete browsing history...', you can then choose to delete your Internet cookies. In Google Chrome, go to 'More Tools' and choose 'Clear browsing data...'. Firefox users can go to 'History', then choose 'Clear recent history...'."
+20,Computer is not getting switched on,"Verify that your computer is able to see the Internet and/or other computers to ensure that your computer is not encountering a connection issue, which would be causing your e-mail issue. Ensure that your Internet e-mail server or your Network e-mail server is not encountering issues by contacting either your Internet Service Provider or your Network administrator."
+21,Computer not powering up,"First check the computer's power cord to make sure it is completely plugged into the wall socket. If you are using a plug strip, make sure it is completely plugged into the wall socket and that the power switch on the plug strip is turned on. Some plug strips also have a built in circuit breaker which usually looks like a black or red button near the power switch. Press the button to reset it and see if that solves the problem."
+22,Volume Icon is not showing in right corner,
+23,Need Ethernet access,"To place the volume icon in the system tray in the lower right of the desktop:
+Place the mouse arrow on the Start button in the lower left corner.
+Left mouse-click on Settings.
+Left mouse-click on the Control Panel
+Place the mouse arrow on the Multimedia icon . 
+(In Windows XP, look for the Sounds and Audio Devices icon .) 
+Double-left mouse click.
+Left mouse-click on the Audio file tab.
+"
+24,Need a LAN Cable,Please connect the LAN cable to the red port on your workstation. Please write back to IT if you are unable to get the IP addresss
+25,Please come to IT desk and collect.,Please come to IT desk and collect.
+26,USB Enabling,
+27,Ticket Marked Overdue,"As you requested, we have enabled USB access on your laptop. Please check and confirm it."
+28,Request to create login credentials for Mr. Koti,Ticket flagged as overdue by the system.
+29,Request to create login credentials for Dr. Hasan,We have already created account and details have been sent to his personal Email ID
+30,Ticket Marked Overdue,Account created and details sent to user's personal email ID
+31,Not able to proceed further in ticket.abc.com after logging in,Ticket flagged as overdue by the system.
+32, Unable to access outlook and myspace [user id: sdash],Resolved. Please check the same now.
+33,Name Correction in mail id,"We have reset the password and communicated to user in a mail already, now user is able to login. Hence marking the ticket resolved"
+34,Request to configure the system to share it among users,Change has been done.
+35,Needs permission wifi access to laptop,They won't be able to access other profiles if they login with their account. Please ask users to reach out to IT if they have any issues.
+36,Need Wifi Access Approval,"First, connect a network cable to your laptop to the red port on your workstation. Run ipconfig /all on your command prompt. Share WiFi Mac or Hardware address to the IT team. IT team then adds your MAC ID to enable WiFi access"
+37,Need abc FTP Server Details,"Not approved by manager, hence closing this ticket."
+38,LAN not working in a VM,IT team has sent the FTP credentials to your email separately. Marking the ticket as closed.
+39,Public IP Address for Coffee House project ,changed network settings to Bridged and configured network in VM.
+40,Wifi access needed.,IT Team has Assigned public IP to the host. IP Address is: 115.111.91.10
+41,server#11 got hanged and needed a restart,"First, connect a network cable to your laptop to the red port on your workstation. Run ipconfig /all on your command prompt. Share WiFi Mac or Hardware address to the IT team. IT team then adds your MAC ID to enable WiFi access"
+42,Linux VM for Azuba project,IT Team has restarted the server and its accessible now.
+43,"Login credetials are not working, says username or password wrong.",IT Team has created VM as per your requirement and configured accordingly and sent the login details in a separate mail.
+44,Install Microsoft outlook,Password got expired. New password is sent to your email id
+4,My Space QA application is down,Installed micrsoft outlook on your machine and closing the ticket
+46,Login Page is not getting displayed,We regret for the inconvinience caused. The issue is with Host server which got rebooted due to a power failure.
+47,Prvide me the admini privileges to install mysql database,Login server was down. It is up now. Please check.
+48,System showing blue screen on startup,Granted admin privileges to install It will get revoked in 24hrs.
+49,"Unable to install outlook, it is asking for admin access needed","1. Hold the power button until system gets shut down, then hit the power button to boot the machine. If still blue screen appears contact IT team and surrender the laptop."
+50,Desktop not working,Granted admin privileges to install It will get revoked in 24hrs.
+51,"System behaving strangely, blue screen is appearing in middle","Please check the Power cables are properly plugged , Please write back to us if the Problem still persists."
+52,My Internet is not working,"Press F8 button on system start, Choose safe mode, if OS loads then restart the os, if still same issue comes handover it to IT team"
+53,"Account got locked, because of 3 wrong attempts os password. Could you please reset the password","Go to network tab from bottom right corner, choose inn001 network, click on connect"
+54,System hangs with blue screen on startup,Unlocked the account and new password is sent to your email id.
+55,Unable to connect to internet using wifi network inn009,"Press F8 button on system start, Choose safe mode, if OS loads then restart the os, if still same issue comes handover it to IT team"
+56,Unable to connect to Internet,"inn009 is removed, connect to inn001"
+57,Replace the battery for my Macbook laptop,"Go to network tab from bottom right corner, choose inn001 network, click on connect"
+58,File Import Error,Please run Battery Helath test and send us the results IT team will do the needful accordingly. Please follow the steps to cehck the battery Helath https://ticket.abc.com/kb/faq.php Hardware issue-Battery issue
+59,Computer is not getting switched on,IMG_20170505_125435.jpg: File size is too large
+60,Creation of mail id for new Joinee ,Contact IT support
+61,"Forgot the password, can you please reset the password for me.",IT Team has Created the mail Id and sent the details in separate email.
+62,MySpace Password Expiry,"Go to URL : password.reset.com, Enter you login id, enter password received, reset the password"
+63,Login Page Down,"Please reset the passowrd using self service Portal http://ssp.abc.com, Please write back to us if you face any issue."
+6,install MS office,Login server was down. It is up now. Please check.
+65,Login Page not opening,Please login to web mail and go to settings -office 365 -install applications- download and install MS office for your machine.
+66,Passwordexpired.,Login server was down. It is up now. Please check.
+67,Account locked. Not able to login,"Go to URL : password.reset.com, Enter you login id, enter password received, reset the password"
+68,,Unlocked the account and new password is sent to your email id.
